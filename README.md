@@ -1,16 +1,16 @@
-# ArtifexGen
+# GAN-Image
 ### Requirements
 - Python 3.10.12 version
 - PIP libraries: see requirements.txt file
 ### How to 
 #### Make a Python virtual environment with 3.10 version (or higher)
-(check Default Python version: python --version. To use a specific version  - python3.10 -m venv artifexgen )
-- python -m venv artifexgen
+(check Default Python version: python --version. To use a specific version  - python3.10 -m venv ganimage )
+- python -m venv ganimage
 #### Activate your virtual environment
 - Windows:
-- .\artifexgen\Scripts\activate
+- .\ganimage\Scripts\activate
 - Linux/Mac
-- source artifexgen/bin/activate
+- source ganimage/bin/activate
 (Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted)
 #### Install the PIP libraries: 
 - pip install -r requirements.txt
